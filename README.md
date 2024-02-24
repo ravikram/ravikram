@@ -25,7 +25,7 @@
 </p>
 
 <h1 align="left">Skill Set</h1>
-These are some of the major technologies that I use or have worked on in the past:<br/>
+Below are some of the key technologies I actively utilize or have hands-on experience with in my professional journey:<br/>
 
 **Programming Languages**
 
