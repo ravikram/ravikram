@@ -1,7 +1,7 @@
 [![MasterHead](https://as2.ftcdn.net/v2/jpg/03/82/45/83/1000_F_382458315_QiqikFoQwkMxaSRTRqlwcxbbVOFV9F6Q.jpg)]
 <h1 align="center">Hey folks, I'm Ravi Kumar Ram!</h1>
 <h3 align="center">I love working with data and aspire to be a top-notch Business/Data Analyst.</h3>
-(img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*YCrp0Z8mAOe2IUV9XmlEDw.gif")
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikram&label=Profile%20views&color=0e75b6&style=flat" alt="ravikram" /> </p>
 
