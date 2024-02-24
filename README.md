@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🎓 I am currently pursuing my **Masters in Management Information Systems (Data Science) from the University of Florida.**
+- 🎓 I am currently pursuing my **Masters in Management Information Systems (Data Science)** from the **University of Florida**
 
-- 💡 Aspiring data-driven analyst roles in **Leadership positions.**
+- 💡 Seeking **data-driven analyst** roles with **leadership opportunities**
 
-- 🔭 I’m currently working on **several topics in Machine Learning and implementing the projects.**
+- 🔭 I'm currently working on **several Machine Learning topics** and implementing **projects**
 
-- 📝 Learning **ETL and Data Pipelines with Shell, Airflow and Kafka by IBM**
+- 📝 Learning **ETL and Data Pipelines with Shell, Airflow, and Kafka**, a course by **IBM**
 
 - 📫 How to reach me **ravi789ram@gmail.com**
 
