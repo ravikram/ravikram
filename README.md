@@ -9,15 +9,15 @@
 
 - 🎓 I am currently pursuing my **Masters in Management Information Systems (Data Science) from the University of Florida.**
 
-- 🔭 I’m currently working on **several topics in Machine Learning and implementing the projects.**
-
 - 💡 Aspiring data-driven analyst roles in **Leadership positions.**
+
+- 🔭 I’m currently working on **several topics in Machine Learning and implementing the projects.**
 
 - 📝 Learning **ETL and Data Pipelines with Shell, Airflow and Kafka by IBM**
 
 - 📫 How to reach me **ravi789ram@gmail.com**
 
-- ⚡ Fun fact **When not diving into data, you'll find me on the dance floor, exploring trails, and decoding horror mysteries. A movie buff, trivia champ, and puzzle enthusiast, I thrive on mental challenges – be it deciphering data or cracking riddles! 🕵️‍♂️🎬💃**
+- ⚡ Fun fact **Outside of data, I enjoy dancing, exploring trails, and watching horror movies. I love mental challenges, from deciphering data to cracking riddles! 🕵️‍♂️🎬💃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
