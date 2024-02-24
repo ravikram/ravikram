@@ -15,9 +15,9 @@
 
 - 📝 Learning **ETL and Data Pipelines with Shell, Airflow, and Kafka**, a course by **IBM**
 
-- 📫 How to reach me **ravi789ram@gmail.com**
+- 📫 You can reach me at **ravi789ram@gmail.com**
 
-- ⚡ Fun fact **Outside of data, I enjoy dancing, exploring trails, and watching horror movies. I love mental challenges, from deciphering data to cracking riddles! 🕵️‍♂️🎬💃**
+- ⚡ Fun fact: **Outside of data, I enjoy dancing, exploring trails, and watching horror movies. I love mental challenges, from deciphering data to cracking riddles! 🕵️‍♂️🎬💃**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
