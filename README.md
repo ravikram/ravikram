@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🎓 I am currently pursuing my **Masters in Management Information Systems (Data Science)** from the **University of Florida**
+- 🎓 I am currently pursuing my **MS in Management Information Systems (Data Science)** from the **University of Florida**
 
 - 💡 Seeking **data-driven analyst** roles with **leadership opportunities**
 
