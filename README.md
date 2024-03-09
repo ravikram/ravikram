@@ -1,4 +1,4 @@
-[![MasterHead](https://as2.ftcdn.net/v2/jpg/03/82/45/83/1000_F_382458315_QiqikFoQwkMxaSRTRqlwcxbbVOFV9F6Q.jpg)]
+![MasterHead](https://as2.ftcdn.net/v2/jpg/03/82/45/83/1000_F_382458315_QiqikFoQwkMxaSRTRqlwcxbbVOFV9F6Q.jpg)
 <h1 align="center">Hey folks, this is Ravi!</h1>
 <h3 align="center">I love working with data and aspire to be a top-notch Business/Data Analyst.</h3>
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:679/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
