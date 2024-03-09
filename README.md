@@ -13,7 +13,7 @@
 
 - 🔭 At present, I am involved in various **Machine Learning** topics and actively working on **project implementations**
 
-- 📝 Attaining **Six Sigma Green Belt** certification through IIBA
+- 📝 Attaining **Six Sigma Green Belt** certification
 
 - 📫 You can reach me at **ravi789ram@gmail.com**
 
